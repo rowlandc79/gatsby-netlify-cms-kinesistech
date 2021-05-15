@@ -9,7 +9,9 @@ description: Kinesis Technologies has been lucky to have been involved in some
   difference at each business we visit, we hope to leave behind a legacy which
   can be built upon further and used for positive change.
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/blog-index.jpg
+      text: more info to come soon
   heading: Disrupting with disrupters
   description: >
     Each of the businesses below have been known to be disrupters in their own
