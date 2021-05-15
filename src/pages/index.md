@@ -17,10 +17,10 @@ description: We take a fresh look at your business and your web or software
   needs, assessing where your current solutions fall short. We can advise on the
   best next steps and help get things moving in the right direction.
 intro:
-  blurbs: [
-    image: /img/home-jumbotron.jpg
-    text: test
-  ]
+  blurbs:
+    - image: /img/coffee.png
+      text: >
+        Test...
   heading: Blank heading
   description: Get in touch to find out more.
 main:
