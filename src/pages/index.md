@@ -18,7 +18,8 @@ description: We take a fresh look at your business and your web or software
   best next steps and help get things moving in the right direction.
 intro:
   blurbs: [
-    blurb1: test
+    image: /img/home-jumbotron.jpg
+    text: test
   ]
   heading: Blank heading
   description: Get in touch to find out more.
