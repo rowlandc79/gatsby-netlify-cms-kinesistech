@@ -1,19 +1,14 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: What we do
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+Kinesis Technologies have been creating solutions for businesses for over 6 years now, including everything from web development to application development and architecting complex devops environments to help speed up delivery. Working with small businesses to global corporations, we aim always to satisfy the customer’s needs and find the best solution possible. Check our a full list of our services.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+**Future Proofing**
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+In a world of such fast moving pace, it is hard to keep up…especially for us as developers and software architects. So we feel the customer’s pain when non-technical business owners struggle to come to terms with the pace of technology too.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+This is why at Kinesis Technologies, we aim to build for the future as much as we possibly can. This can sometimes mean a little more effort up-front, but in the long run, it will save you time, money and effort when it comes to keeping up with your competitors.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+With our free consultations we can explain some of these things in more detail and why they matter so much in the world we live in today.
