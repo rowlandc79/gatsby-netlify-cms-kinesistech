@@ -1,34 +1,20 @@
 ---
 templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
+title: 'Finally! Easily Accessible Serverless Frameworks'
+date: 2021-05-15T14:40:10.000Z
 featuredpost: true
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  We’re proud to announce that we are now offering the chance to have blazing fast,
+  mega affordable modern websites using Gatsby.js & Netlify
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - netlify
+  - gatsby.js
+  - jamstack
+  - serverless
 ---
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+For those in the know, this may be old news, but I feel it is still just starting to reach the mainstream. The big news on the street is that over the last 5 or so years, the way the web is being built has been rapidly undergoing some important transformations.
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+The main buzz-word here "serverless", which technically is a lie, but why argue over semantics.  Websites still live on servers of course, but certain technologies have gone out of their way to sheild us from this evilness which has historically caused us so much pain and grief.  It takes me back to the early 2000's where when working in EC1 Central London, our main server's CPU went bang, and we had to jump on numerous trains and go to Global Switch or some other data center and physically replace the CPU etc while the clients rang non-stop to find out why their website was down.
 
-## A little history
-
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
-
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
-
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
-
-## What you need to know before trying
-
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
-
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
-
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+These days we have amazing cloud structures which handle all of that for us, but even better than that now, we have services like Netlify, which host and build our websites on global Edge CDNs which scale as required and hide all of that tricky stuff from us.  Which means more time for us to focus on building better software and a better website to live on this new better hardware. Happy days!
