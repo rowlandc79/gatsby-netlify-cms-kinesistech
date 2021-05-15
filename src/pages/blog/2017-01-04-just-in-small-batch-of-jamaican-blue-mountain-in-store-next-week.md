@@ -3,7 +3,7 @@ templateKey: 'blog-post'
 title: 'Finally! Easily Accessible Serverless Frameworks'
 date: 2021-05-15T14:40:10.000Z
 featuredpost: true
-featuredimage: null
+featuredimage: /img/chemex.jpg
 description: >-
   We’re proud to announce that we are now offering the chance to have blazing fast,
   mega affordable modern websites using Gatsby.js & Netlify
