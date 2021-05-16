@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Kinesis Technologies - Welcome',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'At Kinesis Technologies, we strive to ensure your web presence is moving with the times & taking advantage of the latest useful technologies which can mould and shape your business into what it deserves to be.  ',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
