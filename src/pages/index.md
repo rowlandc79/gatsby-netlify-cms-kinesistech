@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Disruptive Web & Software Solutions
-image: /img/vectorstock_34176008.png
+image: /img/vectorstock_34176008_1200630.png
 heading: What we do
 subheading: Evolving the web one business at a time
 mainpitch:
