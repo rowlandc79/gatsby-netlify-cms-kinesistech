@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Disruptive Web & Software Solutions
-image: /img/home-jumbotron.jpg
+image: /img/vectorstock_34176008.png
 heading: What we do
 subheading: Evolving the web one business at a time
 mainpitch:
@@ -19,7 +19,7 @@ description: We take a fresh look at your business and your web or software
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
+      text: |
         Test...
   heading: Blank heading
   description: Get in touch to find out more.
@@ -30,6 +30,12 @@ main:
     architecture and design to the implementation. That’s why we’re meticulous
     and transparent about each step of the software's journey.
   image1:
-    alt: How do you like your java?
-    image: /img/products-grid2.jpg
+    alt: What we do
+    image: /img/solution_slider.png
+  image2:
+    image: /img/about-slider-graphic.png
+    alt: Web development
+  image3:
+    image: /img/cloud-3.png
+    alt: Cloud consultation and solutions
 ---
