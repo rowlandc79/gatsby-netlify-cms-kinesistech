@@ -43,9 +43,10 @@ const TemplateWrapper = ({ children }) => {
         <meta property="og:type" content="business.business" />
         <meta property="og:title" content={title} />
         <meta property="og:url" content="/" />
+        <meta property="od:description" content="Striving to ensure your web presence is moving with the times &amp; taking advantage of the latest useful technologies which can mould and shape your business into what it deserves to be." />
         <meta
           property="og:image"
-          content={`${withPrefix('/')}img/vectorstock_34176008_1200630.png`}
+          content={`https://www.kinesistech.co.uk/img/vectorstock_34176008_1200630.png`}
         />
       </Helmet>
       <Navbar />
